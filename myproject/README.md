@@ -23,6 +23,6 @@
 
 1. Клонуй репозиторій:
    ```bash
-   git clone https://github.com/твій-нік/назва-проєкту.git
-   cd назва-проєкту
+   git https://github.com/Tetiana5Buria/Django-project.git
+   cd Django-project
    ```
